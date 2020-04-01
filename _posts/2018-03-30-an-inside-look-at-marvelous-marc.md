@@ -12,7 +12,7 @@ title: An Inside Look at Marvelous Marc Balloons
 date: '2018-03-30T09:27:00.001-07:00'
 author: Vyral Marketing
 tags:
-- colorado springs community
+- Colorado Springs Community
 modified_time: '2018-03-30T09:27:58.788-07:00'
 thumbnail: https://i.ytimg.com/vi/C1zJQFgaw9c/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7092899618377556481.post-2086332648879628921
