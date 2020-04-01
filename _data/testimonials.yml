@@ -1,5 +1,41 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: We got great results, we found a beautiful house and we’re very pleased with it, been in it several months now. And just very happy with Jason and his team. We worked with a team member, Jonathan, and he was always available and would respond very quickly to text messages or phone messages and I really appreciated that. We would use them again and recommend them to our friends. They’re a great team to work with.
+    name: Sandra
+    audio: /uploads/audio/sandra.mp3
+
+
+  - quote: I've sold two houses with Jason Daniels. I'll say that Jason and his team are exceptional, and I don't use that word lightly because I've sold two houses with Jason and there's a reason I came back to working with him. Not only did our house sell fast, it sold for the right price, we never had to reduce price, we never had to go up in price. I'd sold houses with other Realtors before so I had an idea of what was supposed to happen but what I was really impressed with, with Jason is that his negotiating skills are excellent and I'd never had any Realtor that I'd worked with before, I'm military, I've moved many times, bought and sold several houses, and no one has ever really taken the initiative to negotiate for things I didn't ask for. I really felt like I walked out with the best deal I possibly could have had. Jason Daniels, you definitely want him on your team!
+    name: Sarah
+    audio: /uploads/audio/sarah.mp3
+
+
+  - quote: I flip houses on the side, he helps me find the houses to buy and then I go through him to purchase it, and when I’m done I list it with him to sell them. I’ve probably done like 25, 30 buys and sells with him, so I’m probably at about 50 to 60 somewhere. There’s been a few houses where he always seems to be able to get me an extra few thousand dollars when an offer will come in that’s lower than what I’m asking. He has a really good feel on if the buyer will come up a little bit more of if they’re at their max or if they’re really wanting the house. Or he’d be able to say, “Hey these people are really excited about this house, I get that from their agent and if you want to counter, they’ll probably come up some on their price.
+    name: Jeffrey
+    audio: /uploads/audio/jeffrey.mp3
+
+
+  - quote: When we bought our house that we’re living in currently, we were having it built by a contractor. He put together information on analysis of various contractors and then he did background research and came to us with a list of recommendations. There were some items we had questions about afterwards, and he in turn acted as a negotiator and was able to fulfill our needs without a question. He represented us very fairly and probably more than anybody else I could have worked with.
+    name: Ray
+    audio: /uploads/audio/ray.mp3
+
+
+  - quote: He sold our house in less than 90 days for full price and a cash offer. He walked through our house and told us what to keep out and what to put in storage so it would show better. He was just always available—any second I needed to talk to him he was available to answer questions. His whole team is great and his office staff is amazing.
+    name: Amy
+    audio: /uploads/audio/amy.mp3
+
+
+  - quote: I've worked with Jason twice. When we were buying a house, he took us to a couple houses and figured out what we wanted. The next day, we saw three houses that were exactly what we were looking for, and we bought one. Later on, he sold that house for us. A few days after he put the sign up, a verbal offer came in. Jason told us he would try to bring the buyer up to full price. When the written offer came in, we got the asking price! I believe he worked very hard for that. It was a very good experience.
+    name: Bill
+    audio: /uploads/audio/bill.mp3
+
+
+  - quote: He is absolutely the best. Jason is a fine human being, and when you meet him, you immediately think you've had him for a friend for forty years!
+    name: Jim
+    audio: /uploads/audio/jim.mp3
+
+
+  # - quote:
+  #   name:
+  #   audio: /uploads/audio/.mp3
+  #

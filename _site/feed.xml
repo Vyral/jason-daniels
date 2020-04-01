@@ -1,88 +1,278 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>-- MARKET -- Real Estate Video Blog with -- CLIENT NAME --</title>
-    <description>Our mission at  is to be your best resource for  real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The , your professional  Real Estate Agents.</description>
+    <title>Colorado Springs Real Estate Video Blog with Jason Daniels</title>
+    <description>Our mission at Finch &amp; Gable is to be your best resource for Colorado Springs real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Finch &amp; Gable, your professional Colorado Springs Real Estate Agents.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Feb 2020 15:44:33 -0600</pubDate>
-    <lastBuildDate>Mon, 10 Feb 2020 15:44:33 -0600</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2020 10:45:13 -0500</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2020 10:45:13 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
-        <title>this is a test post</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Changes in Our Market Since 2008</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/foMJfAO-XsA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;Want to Buy a Home? Search All Homes
+Want to Sell a Home? Get a Home Value Report&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. &lt;a href=&quot;http://google.com&quot;&gt;Fanny&lt;/a&gt; pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/homevalue/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/home-value.jpg&quot; class=&quot;post-image&quot; alt=&quot;Home Valuation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20http://localhost:4000/this-is-a-test-post-copy-2.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
-
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;How has the real estate market changed since the crash of 2008? It hasn’t changed a whole lot, but the minor changes that have been enacted were done so for good reason. Lending restrictions, for example, have tightened. To find out what other changes you need to be aware of, watch this short video.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 10 May 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/this-is-a-test-post-copy-2.html</guid>
-        
-        <category>Market Update</category>
-        
-        <category>Real Estate</category>
-        
-        <category>Home Seller Tips</category>
+        <pubDate>Thu, 20 Feb 2020 08:54:00 -0600</pubDate>
+        <link>http://localhost:4000/changes-in-our-market-since-2008.html</link>
+        <guid isPermaLink="true">http://localhost:4000/changes-in-our-market-since-2008.html</guid>
         
         
       </item>
     
       <item>
-        <title>A Fox in Space</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>What Buying a Home Will Cost You</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZTTeXs3zy68?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;&lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot;&gt;gastropub&lt;/a&gt; marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;Want to Buy a Home? Search All Homes
+Want to Sell a Home? Get a Home Value Report&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot; target=&quot;_blank&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/homesearch/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/home-search.jpg&quot; class=&quot;post-image&quot; alt=&quot;Home Search&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20http://localhost:4000/a-fox-in-space.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
-
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;How much money do you need to buy a house? The good news is, there are plenty of home financing options for you to choose from. How much cash you need depends on the type of financing you use. To find out more about what your options are, watch this short video.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/a-fox-in-space.html</link>
-        <guid isPermaLink="true">http://localhost:4000/a-fox-in-space.html</guid>
+        <pubDate>Thu, 20 Feb 2020 08:47:00 -0600</pubDate>
+        <link>http://localhost:4000/what-buying-home-will-cost-you.html</link>
+        <guid isPermaLink="true">http://localhost:4000/what-buying-home-will-cost-you.html</guid>
         
-        <category>Market Update</category>
         
-        <category>Real Estate</category>
+      </item>
+    
+      <item>
+        <title>How Your Property Taxes Affect Your Monthly Payments</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ED0SpfEnUWg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Here’s what soon-to-be homeowners should know about their property taxes. Instead of paying them directly to the government, you pay your mortgage company.&lt;/p&gt;
+
+&lt;p&gt;Want to Buy a Home? Search All Homes
+Want to Sell a Home? Get a Home Value Report&lt;/p&gt;
+
+&lt;p&gt;How exactly do property taxes affect your monthly mortgage payment? Most lenders require that they pay your taxes by placing some of your closing cost money in an escrow account. This ensures that the government won’t place a lien on the property before the mortgage company does.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Once the lender calculates your tax bill, they divide it by 12 and add it to your monthly payment%20http://localhost:4000/how-your-property-taxes-affect-your.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Once the lender calculates your tax bill, they divide it by 12 and add it to your monthly payment”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Via an estimate from the county, your lender will figure out what your tax estimate is. Taxes are due April 15, but here in Colorado, property taxes are paid in arrears, meaning that your taxes don’t have to be paid in their entirety by April 15. Specifically, the state allows you to pay the first half of what you owe in taxes in February, and the second half in June.&lt;/p&gt;
+
+&lt;p&gt;Many mortgage companies prefer this method because it allows them to hold on to your money and keep the interest. Once the lender calculates your tax bill, they divide it by 12 and add it to your monthly payment, splitting it up nicely over the year.&lt;/p&gt;
+
+&lt;p&gt;If you’re using an online mortgage calculator, make sure you’re including taxes and homeowner’s insurance because those will most certainly affect your monthly payment.&lt;/p&gt;
+
+&lt;p&gt;If you have more questions about this topic, or you’re ready to start looking at homes, feel free to reach out to me via phone or email. You can also check out the latest Pike’s Peak area homes by following the links below.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 14 Feb 2020 11:43:00 -0600</pubDate>
+        <link>http://localhost:4000/how-your-property-taxes-affect-your.html</link>
+        <guid isPermaLink="true">http://localhost:4000/how-your-property-taxes-affect-your.html</guid>
         
-        <category>Home Seller Tips</category>
+        
+      </item>
+    
+      <item>
+        <title>Reasons Real Estate Deals Can Fall Apart</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/shi0d2wMfPA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today I’m explaining the three main reasons real estate deals fall apart.
+Want to Buy a Home? Search All Homes
+Want to Sell a Home? Get a Home Value Report&lt;/p&gt;
+
+&lt;p&gt;Today I want to explain the three main reasons why real estate deals fall apart. Some of these deal-breakers are avoidable, some are not.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Financing.&lt;/strong&gt; If the buyer is having financial difficulties, like not getting the proper documentation to the lender or having issues with income, a deal can fall apart. There are many reasons financing can fall through.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Some of these deal-breakers are avoidable, some are not.%20http://localhost:4000/reasons-real-estate-deals-can-fall-apart.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Some of these deal-breakers are avoidable, some are not.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Problem with the property.&lt;/strong&gt; If a problem with the property is found during the inspection, like a major issue with the roof or furnace that the seller is not willing to address, that can often lead to the deal falling apart. However, if you’re the seller, you have to disclose that information to the next buyer, so it always makes sense to keep the first deal together. As a buyer, if there are multiple offers on the home, you need to decide if it makes sense to cancel the deal if it’s not going to cost you that much to fix it yourself. Your Realtor can help with this decision.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Cold feet.&lt;/strong&gt; Sometimes a buyer gets cold feet and backs out of the deal, or sometimes they find a house they like better.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions please reach out by phone or email. We would love to hear from you.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Jan 2020 09:16:00 -0600</pubDate>
+        <link>http://localhost:4000/reasons-real-estate-deals-can-fall-apart.html</link>
+        <guid isPermaLink="true">http://localhost:4000/reasons-real-estate-deals-can-fall-apart.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>What Role Do Escrow Accounts Play in a Home Sale?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/dufdzRaTqGI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;If you’re confused about what an escrow account is, today I’ll provide a quick definition.
+Want to Buy a Home? Search All Homes
+Want to Sell a Home? Get a Home Value Report&lt;/p&gt;
+
+&lt;p&gt;What is an escrow account?&lt;/p&gt;
+
+&lt;p&gt;An escrow account is what a mortgage company sets up when buyers get a loan to purchase a house. The account is comprised of funds that don’t apply to the principal or interest of your mortgage. In other words, they’ll go toward your property taxes and homeowners insurance. The payment for setting up your escrow account is included in the closing costs.&lt;/p&gt;
+
+&lt;p&gt;Every time you make a monthly payment to your mortgage company, they’ll take a piece of that check and put it into your escrow account. Usually, homeowners insurance is billed annually, so your mortgage company will use your escrow account to pay your bill when it’s due. That’s why your insurance company actually sends your mortgage company the bill.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Every time you make a monthly payment to your mortgage company, they’ll take a piece of that check and put it into your escrow account.%20http://localhost:4000/what-role-do-escrow-accounts-play-in.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Every time you make a monthly payment to your mortgage company, they’ll take a piece of that check and put it into your escrow account.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here in Colorado, property taxes are paid in arrears, which means you can pay them in April, or pay half in February and half in June. Most mortgage companies prefer to split the payment. That way, after they make the first payment in February, they can collect interest on it until June.&lt;/p&gt;
+
+&lt;p&gt;When it’s time to sell your home, a lot of sellers have one question in particular at the closing table: Why is the title company billing me for taxes if I already paid them through my mortgage company? When you pay taxes to your mortgage company, those funds aren’t sent to the county—they’re held in your account. When you sell your home, to ensure there are no tax judgments against the new owner, the title company has to collect them from you at closing. You can either pay out of your equity or write them a check.&lt;/p&gt;
+
+&lt;p&gt;The mortgage company will then mail you a check three or four weeks after closing, so make sure they have your new forwarding address so you can get that money back.&lt;/p&gt;
+
+&lt;p&gt;As always, if you have questions about this or any other real estate topic, or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d be happy to help you.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Jan 2020 11:32:00 -0600</pubDate>
+        <link>http://localhost:4000/what-role-do-escrow-accounts-play-in.html</link>
+        <guid isPermaLink="true">http://localhost:4000/what-role-do-escrow-accounts-play-in.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>What To Look for When You're Walking Through a Home</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ofVp5RlFR0Y?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;When you’re walking through a home you’re considering for purchase, what things should you keep an eye out for? Today I’ll tell you.&lt;/p&gt;
+
+&lt;p&gt;Want to Buy a Home? Search All Homes
+Want to Sell a Home? Get a Home Value Report&lt;/p&gt;
+
+&lt;p&gt;When you’re touring a resale listing you’re interested in purchasing, look at the windows, doors, ceilings, and other areas of the home for signs of structural damage. Check to see if there’s any cracked drywall, water damage, rust on the water heater, or drainage coming from the air conditioning.&lt;/p&gt;
+
+&lt;p&gt;Pay attention to the plumbing, too, especially if you live in Colorado Springs: Polybutylene pipes used in house construction in the 1980s have been known to burst.&lt;/p&gt;
+
+&lt;p&gt;You’ll also want to take a walk around outside the home to check for cracks in the brick, siding, or foundation walls. See if your roof is made with t-lock shingles, as the whole roof will need replacing if any of them are damaged.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Don’t get caught up in the aesthetics of the house.%20http://localhost:4000/what-to-look-for-when-youre-walking.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Don’t get caught up in the aesthetics of the house.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Above all, make sure that you’re working with a knowledgeable Realtor. You don’t want to take the time to write an offer on a home that has a host of hidden, potentially costly issues that will cause problems down the road.&lt;/p&gt;
+
+&lt;p&gt;I have a background in construction management, and my team has been trained to know just what to look for. We’ll also help you schedule a home inspection for a home you’re interested in purchasing; a home inspector will go through the whole house to assess the condition of the property.&lt;/p&gt;
+
+&lt;p&gt;Again, don’t get caught up in the aesthetics of the house. Ugly carpets can be replaced, and shiny new appliances don’t necessarily mean the whole house is that new or stable.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about buying a home, including what to look for as you walk through a showing, don’t hesitate to reach out to us. We’d be glad to help you ensure that your next purchase goes off without a hitch.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Dec 2019 15:07:00 -0600</pubDate>
+        <link>http://localhost:4000/what-to-look-for-when-youre-walking.html</link>
+        <guid isPermaLink="true">http://localhost:4000/what-to-look-for-when-youre-walking.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Benefits of Working With Our Team</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3z-NCfVIyO0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Our team offers clients a smooth, professional experience from beginning to end. Here’s how our team provides superior service to both buyers and sellers.&lt;/p&gt;
+
+&lt;p&gt;Want to Buy a Home? Search All Homes
+Want to Sell a Home? Get a Home Value Report&lt;/p&gt;
+
+&lt;p&gt;Whether you’re thinking of buying or selling a home, you want to have a real estate team at your side. When you work with a team of agents, you have a group of professionals who are experts at what they do.&lt;/p&gt;
+
+&lt;p&gt;It’s much more effective to have a team, which is why I created an environment filled with professionals who handle specific tasks. We have a director, a transaction coordinator, a listing manager, buyer specialists, and listing specialists. We meet each week and work together to ensure you have a smooth, hassle-free experience with superior service.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=When you work with us, you have an entire team at your disposal.%20http://localhost:4000/the-benefits-of-working-with-our-team.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“When you work with us, you have an entire team at your disposal.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We have staff members who are always available to answer any questions you may have, and we’re able to show listings to homebuyers seven days a week. We work to fit your schedule.&lt;/p&gt;
+
+&lt;p&gt;When you work with us, you have an entire team at your disposal. Buyers can get all of these services at virtually no cost, as sellers are the ones who cover our commission. Sellers are also receiving a great deal, as they get a whole team for the price of one agent.&lt;/p&gt;
+
+&lt;p&gt;Your transaction is handled smoothly from beginning to end, and we’re always here to provide you with any information you need. If you’re not happy with our service, you can cancel at any time. In the three years we’ve offered this option, however, nobody has used it — we keep our clients happy.&lt;/p&gt;
+
+&lt;p&gt;If you’re looking to buy or sell a home and would like to learn more about our services, feel free to reach out to us. We look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Dec 2019 11:11:00 -0600</pubDate>
+        <link>http://localhost:4000/the-benefits-of-working-with-our-team.html</link>
+        <guid isPermaLink="true">http://localhost:4000/the-benefits-of-working-with-our-team.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>When Should You Lower the Price of Your Home?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jTstfsBoWEA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;When should you lower the price of your for-sale home? Here’s my advice.&lt;/p&gt;
+
+&lt;p&gt;Want to Buy a Home? Search All Homes
+Want to Sell a Home? Get a Home Value Report&lt;/p&gt;
+
+&lt;p&gt;When we work with our seller clients, we track how many online visits their listing gets via Zillow, Realtor.com, and so on. We expect a certain amount of traffic based on the home itself, but if the listing doesn’t get as much as we’d expected, we’ll take a look at other listings in the area we’re marketing the home in to find out whether it’s just our seller’s home or if it’s the market in general.&lt;/p&gt;
+
+&lt;p&gt;Sometimes homes fail to attract attention simply because the market has begun to slow down, and in those cases, you don’t want to lower your price.&lt;/p&gt;
+
+&lt;p&gt;We’ll also monitor the physical activity your listing generates—that is, how many people are actually coming to your home for a showing. If your home is receiving a lot of online traffic but few or no in-person showings, then the price of your home needs to be reduced.&lt;/p&gt;
+
+&lt;p&gt;When it is necessary to change your home’s price, you’ll often have to change it by at least $5,000 to even see a difference in the flow of traffic around your home, and sometimes by $10,000 to trigger any offers.&lt;/p&gt;
+
+&lt;p&gt;The market is always going up and down and correcting itself, but right now, home sellers need to be careful to price their homes more realistically from the very beginning.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=If your home is receiving a lot of online traffic but few or no in-person showings, then the price of your home needs to be reduced.%20http://localhost:4000/when-should-you-lower-price-of-your-home.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“If your home is receiving a lot of online traffic but few or no in-person showings, then the price of your home needs to be reduced.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You do have some options, however. Suppose you’ve listed your home for $300,000 and you get an offer from a buyer that requests a $20,000 reduction. Scott Edgin, a friend of mine from Universal Lending Services, shared a tip with my team: If the buyer makes an offer below your asking price, you can buy the interest rate down for the buyer for up to a full point. For the $300,000 home, that would amount to $10,000.&lt;/p&gt;
+
+&lt;p&gt;If the buyer were to have gotten the home for the $280,000 they had originally requested, their monthly payment would still be higher than if they’d paid the asking price and asked you to buy down their interest rate—about $70 higher per month.&lt;/p&gt;
+
+&lt;p&gt;We’ve found this to be a creative way for sellers to still get their asking price for their home and to give buyers a lower monthly payment. It’s truly a win-win situation.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about this approach, don’t hesitate to reach out to us. We’d be happy to help you.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Dec 2019 10:09:00 -0600</pubDate>
+        <link>http://localhost:4000/when-should-you-lower-price-of-your-home.html</link>
+        <guid isPermaLink="true">http://localhost:4000/when-should-you-lower-price-of-your-home.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Do You Know the Difference Between a Pre-Approval and Pre-Qualification?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IZd9HLglSIo?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;If you’re looking to buy a home, a pre-qualification or pre-approval can help. Here’s how.&lt;/p&gt;
+
+&lt;p&gt;Want to Buy a Home? Search All Homes
+Want to Sell a Home? Get a Home Value Report&lt;/p&gt;
+
+&lt;p&gt;You’ve probably heard the terms “pre-approval” and “pre-qualification” before, but do you know the difference between them? It seems that even people in the industry get these terms mixed up, but they have very distinct differences.&lt;/p&gt;
+
+&lt;p&gt;A pre-qualification is when a buyer reaches out to a lender and verbally told them about their income and debts in a short application. This is a great first step, but the pre-approval takes things to another level.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Being pre-approved is much more advantageous to buyers%20http://localhost:4000/do-you-know-difference-between-pre.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Being pre-approved is much more advantageous to buyers”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A pre-approval is when the lender submits an application and verifies the debts, income, and assets of the potential buyer. We like to see our clients get pre-approved before shopping for a home. This also means that the application has been through the underwriting system.&lt;/p&gt;
+
+&lt;p&gt;In the end, being pre-approved is much more advantageous for you as a buyer than a pre-qualification is. If you have any questions for me or need a pre-approval yourself, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Nov 2019 10:05:00 -0600</pubDate>
+        <link>http://localhost:4000/do-you-know-difference-between-pre.html</link>
+        <guid isPermaLink="true">http://localhost:4000/do-you-know-difference-between-pre.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>How Much Will You Pay in Closing Costs?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fEqSunjG464?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;How much will you pay in closing costs? Let’s discuss.&lt;/p&gt;
+
+&lt;p&gt;Want to Buy a Home? Search All Homes
+Want to Sell a Home? Get a Home Value Report&lt;/p&gt;
+
+&lt;p&gt;How much will you pay in closing costs?&lt;/p&gt;
+
+&lt;p&gt;What you’ll pay is determined by whether the buyer and the seller both have closing costs. The seller is generally going to have closing costs. Here in Colorado, it’s customary for the seller to pay for the title insurance. The closing fee for the title company and the closer that does all the paperwork is commonly split evenly between the buyer and seller, it’s usually around $130 each. The title work can be anywhere from 0.5% to 0.75% of the sales price. That’s frequently a seller cost.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=What you’ll pay is determined by whether the buyer and the seller both have closing costs.%20http://localhost:4000/how-much-will-you-pay-in-closing-costs.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“What you’ll pay is determined by whether the buyer and the seller both have closing costs.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Closing costs will typically be more expensive for the buyer, especially if they’re using a loan. If you’re paying cash, your closing costs are minimal. I recommend you work with a local lender that can educate you on loan programs, if you’re going that route, to determine what you’ll pay in your specific closing costs. The great news is, some of those loan deals offer cash assistance programs from local government agencies or the state. Depending on the market, we can also ask the seller to pay for some of the buyer’s closing costs.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions please speak with your Realtor. If you don’t have one, please reach out to us. We’re glad to help and walk you through anything you need. Let us know how we can assist you!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Nov 2019 12:52:00 -0600</pubDate>
+        <link>http://localhost:4000/how-much-will-you-pay-in-closing-costs.html</link>
+        <guid isPermaLink="true">http://localhost:4000/how-much-will-you-pay-in-closing-costs.html</guid>
         
         
       </item>
