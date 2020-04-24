@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Although this pandemic has changed our daily lives for the time being, it has
   also allowed us to focus on what’s most important.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Daniels/Videos/2020/A+Message+of+Encouragement+Amid+Uncertainty+_+Finch+%26+Gable.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
