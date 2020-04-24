@@ -18,6 +18,6 @@ youtube_code: N824gcJQRoU
 
 {% include youtube.html %}
 
-<center><em>Although this pandemic has changed our daily lives for the time being, it has also allowed us to focus on what’s most important.</em></center>
+<center><em>Although this pandemic has changed our daily lives for the time being, it has also allowed us to focus on what&rsquo;s most important.</em></center>
 
 <br>During this time of uncertainty, we believe it’s also a time for growth: A time to reflect on what’s really important, be creative, have faith, and love our neighbors. It has taken a crisis to make time for home, but when you’re ready, we’re here to help you find yours.
