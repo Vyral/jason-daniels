@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/05-07-daniels-youtube.jpg
-youtube_code: 1VIXsSzA6N8
+youtube_code: gSEWS8BvyIQ
 ---
 
 {% include youtube.html %}
