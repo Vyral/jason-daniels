@@ -32,5 +32,3 @@ When you buy a resale home, you hire an inspector to come look at the house and 
 Remember: Hire a professional agent to help you. **They can negotiate upgrades and lot premiums**, and they’ll help you check out all the different builders in town or the area you want to live in so you know exactly what you’re getting in the end.
 
 If you have any questions or need a Realtor, give us a call or send an email. We look forward to hearing from you.
-
-&nbsp;
