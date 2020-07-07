@@ -17,7 +17,7 @@ youtube_code: Qrmp_QT9Ih0
 
 {% include youtube.html %}
 
-<center><em>I’m explaining how buying a newly built home is different from resale.</em></center>
+<center><em>I&rsquo;m explaining how buying a newly built home is different from resale.</em></center>
 
 <br>Many clients have asked what differentiates buying a newly built home versus a resale, so I’m diving into that topic today.
 
