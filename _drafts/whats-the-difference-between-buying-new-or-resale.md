@@ -17,7 +17,9 @@ youtube_code: Qrmp_QT9Ih0
 
 {% include youtube.html %}
 
-Many clients have asked what differentiates buying a newly built home versus a resale, so I’m diving into that topic today.
+<center><em>I’m explaining how buying a newly built home is different from resale.</em></center>
+
+<br>Many clients have asked what differentiates buying a newly built home versus a resale, so I’m diving into that topic today.
 
 First, with a new build you get that brand-new feeling, get to choose the colors and finishes, and **you get a 12-month warranty for everything in the house**, and sometimes the structural warranty lasts years. The procedure is also a bit different. You will need a real estate agent who knows the new construction process well to help guide you through it. There are different construction walk-throughs including frame or pre-drywall walks and final walks, and you need someone who knows what to look for.
 
