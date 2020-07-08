@@ -19,9 +19,9 @@ youtube_code: Qrmp_QT9Ih0
 
 <center><em>I&rsquo;m explaining how buying a newly built home is different from resale.</em></center>
 
-<br>Many clients have asked what differentiates buying a newly built home versus a resale, so I’m diving into that topic today.
+<br>Many clients have asked what differentiates buying a newly built home from a resale, so I’m diving into that topic today.
 
-First, with a new build you get that brand-new feeling, get to choose the colors and finishes, and **you get a 12-month warranty for everything in the house**, and sometimes the structural warranty lasts years. The procedure is also a bit different. You will need a real estate agent who knows the new construction process well to help guide you through it. There are different construction walk-throughs including frame or pre-drywall walks and final walks, and you need someone who knows what to look for.
+First, with a new build, you get that brand-new feeling, the ability to choose the colors and finishes, and **a 12-month warranty for everything in the house** (sometimes the structural warranty lasts years). The procedure is also a bit different. You will need a real estate agent who knows the new construction process well to help guide you through it. There are different construction walk-throughs including frame or pre-drywall walks and final walks, and you need someone who knows what to look for.
 
 Another great thing about purchasing a new construction home is that there’s less competition for them. Currently here in Colorado, **we receive multiple offers on resale homes, and it’s a fight to win it**. However, with new construction, you’re locking in a lot, and building it from the ground up. A new construction home will also appreciate during the six to 12 months it’s being worked on, and appreciation rates are as high as 6% to 10% right now.
 
