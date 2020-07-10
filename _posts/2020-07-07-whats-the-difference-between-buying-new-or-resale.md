@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: I’m explaining how buying a newly built home is different from resale.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Daniels/Videos/2020/Whats+the+Difference+Between+Buying+New+or+Resale_.mp4
 pullquote: You will need a real estate agent who knows the new construction process well.
 enclosure_type: video/mp4
 enclosure_time:
