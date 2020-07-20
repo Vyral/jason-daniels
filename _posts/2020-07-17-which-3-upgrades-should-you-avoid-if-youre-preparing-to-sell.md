@@ -27,4 +27,4 @@ youtube_code: 4uBAidZ4Kdw
 
 **3\. Expensive landscaping**. For example, if you build any water features and/or large retaining walls you’ll be lucky to get a 25% return on value when you sell.
 
-If you’re curious which upgrades will fetch the best sale price for your home, give my team and I a call and we’d be happy to schedule a quick walk-through. If you have questions about any other real estate topics, feel free to give me a call as well. I’m here to help.
+If you’re curious about which upgrades will fetch the best sale price for your home, give my team and me a call and we’d be happy to schedule a quick walk-through. If you have questions about any other real estate topics, feel free to give me a call as well. We're here to help.
