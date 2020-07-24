@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: There are three upgrades you must avoid if you’re selling soon.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Daniels/Videos/2020/Which+3+Upgrades+Should+You+Avoid+If+Youre+Preparing+to+Sell_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
