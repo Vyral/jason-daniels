@@ -16,6 +16,7 @@ modified_time: '2020-02-20T06:54:50.146-08:00'
 thumbnail: https://i.ytimg.com/vi/foMJfAO-XsA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7092899618377556481.post-7744286341108220782
 blogger_orig_url: https://www.realestatenewsincolorado.com/2020/02/changes-in-our-market-since-2008.html
+hidden: false
 ---
 {% include youtube.html %}
 Want to Buy a Home? Search All Homes

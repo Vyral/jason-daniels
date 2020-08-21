@@ -14,6 +14,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/07-06-daniels-youtube.jpg
 youtube_code: bX4JCDtreqA
+hidden: false
 ---
 
 {% include youtube.html %}

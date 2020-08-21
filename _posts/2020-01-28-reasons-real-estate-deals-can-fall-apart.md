@@ -16,6 +16,7 @@ modified_time: '2020-01-31T07:26:04.217-08:00'
 thumbnail: https://i.ytimg.com/vi/shi0d2wMfPA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7092899618377556481.post-8319795416434948091
 blogger_orig_url: https://www.realestatenewsincolorado.com/2020/01/reasons-real-estate-deals-can-fall-apart.html
+hidden: false
 ---
 {% include youtube.html %}
 Today I’m explaining the three main reasons real estate deals fall apart.

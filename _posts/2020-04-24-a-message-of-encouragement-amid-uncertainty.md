@@ -15,6 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-24-daniels-youtube.jpg
 youtube_code: N824gcJQRoU
+hidden: false
 ---
 
 {% include youtube.html %}

@@ -16,6 +16,7 @@ modified_time: '2020-02-17T14:11:37.092-08:00'
 thumbnail: https://i.ytimg.com/vi/ED0SpfEnUWg/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7092899618377556481.post-2676450550165118967
 blogger_orig_url: https://www.realestatenewsincolorado.com/2020/02/how-your-property-taxes-affect-your.html
+hidden: false
 ---
 {% include youtube.html %}
 Here’s what soon-to-be homeowners should know about their property taxes. Instead of paying them directly to the government, you pay your mortgage company.

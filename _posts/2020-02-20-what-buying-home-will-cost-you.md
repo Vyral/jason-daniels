@@ -16,6 +16,7 @@ modified_time: '2020-02-20T06:47:44.222-08:00'
 thumbnail: https://i.ytimg.com/vi/ZTTeXs3zy68/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7092899618377556481.post-5399072756762357629
 blogger_orig_url: https://www.realestatenewsincolorado.com/2020/02/what-buying-home-will-cost-you.html
+hidden: false
 ---
 {% include youtube.html %}
 Want to Buy a Home? Search All Homes

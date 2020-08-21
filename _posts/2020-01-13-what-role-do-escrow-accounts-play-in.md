@@ -16,6 +16,7 @@ modified_time: '2020-01-14T07:14:27.392-08:00'
 thumbnail: https://i.ytimg.com/vi/dufdzRaTqGI/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7092899618377556481.post-3703243785992649071
 blogger_orig_url: https://www.realestatenewsincolorado.com/2020/01/what-role-do-escrow-accounts-play-in.html
+hidden: false
 ---
 {% include youtube.html %}
 If you’re confused about what an escrow account is, today I’ll provide a quick definition.
