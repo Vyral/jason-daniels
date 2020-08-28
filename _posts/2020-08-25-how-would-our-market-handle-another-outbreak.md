@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: 'If another COVID outbreak happens, here’s how our market will handle it.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Daniels/Videos/2020/How+Would+Our+Market+Handle+Another+Outbreak_.mp4
 pullquote: >-
   If the economy declines again, we will likely see another upward rebound
   shortly thereafter.
