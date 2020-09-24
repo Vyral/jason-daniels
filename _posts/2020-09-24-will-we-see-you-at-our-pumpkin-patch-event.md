@@ -19,7 +19,7 @@ hidden: true
 
 <center><em>Our upcoming pumpkin patch is fall fun for the whole family.</em></center>
 
-<br>Today it’s my great pleasure to be able to invite you to **a day at the pumpkin patch on October 10 at the <u><a target="_blank" rel="noopener" href="https://goo.gl/maps/rEhmsiT4yBast3Ks6">Western Mining Museum</a></u>** (225 North Gate Blvd). From 9 a.m. to noon, we’ll have games and plenty of other fun activities for the whole family to enjoy. Plus, each family gets to take home a free pumpkin\!
+<br>Today it’s my great pleasure to be able to invite you to **a day at the pumpkin patch on October 10 at the <u><a target="_blank" rel="noopener" href="https://goo.gl/maps/rEhmsiT4yBast3Ks6">Western Mining Museum</a></u>** (225 North Gate Blvd). From 9 a.m. to noon, we’ll have games and plenty of other fun activities for the whole family to enjoy. Plus, each family member gets to take home a free pumpkin\!
 
 Tickets for the museum may be purchased separately, but are not included in the Pumpkin Patch entrance. Please bring masks per the mandate of the Governor (masks only have to be worn inside) and practice social distancing.
 
