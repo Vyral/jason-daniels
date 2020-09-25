@@ -4,7 +4,7 @@ title: Will We See You at Our Pumpkin Patch Event?
 date: 2020-09-24 00:00:00
 tags:
   - Real Estate
-excerpt: Our upcoming pumpkin patch is fall fun for the whole family.
+excerpt: Our upcoming pumpkin patch event is fall fun for the whole family.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -17,7 +17,7 @@ hidden: true
 
 {% include youtube.html %}
 
-<center><em>Our upcoming pumpkin patch is fall fun for the whole family.</em></center>
+<center><em>Our upcoming pumpkin patch event is fall fun for the whole family.</em></center>
 
 <br>Today it’s my great pleasure to be able to invite you to **a day at the pumpkin patch on October 10 at the <u><a target="_blank" rel="noopener" href="https://goo.gl/maps/rEhmsiT4yBast3Ks6">Western Mining Museum</a></u>** (225 North Gate Blvd). From 9 a.m. to noon, we’ll have games and plenty of other fun activities for the whole family to enjoy. Plus, each family member gets to take home a free pumpkin\!
 
