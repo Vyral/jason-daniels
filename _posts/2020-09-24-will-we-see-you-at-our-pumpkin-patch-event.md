@@ -23,4 +23,6 @@ hidden: true
 
 Tickets for the museum may be purchased separately, but are not included in the Pumpkin Patch entrance. Please bring masks per the mandate of the Governor (masks only have to be worn inside) and practice social distancing.
 
-**To RSVP, you can simply reply to the email that led you to this page, give our office a call at (719) 999-8900, or send an email to <u><a href="mailto:events@finchandgable.com">events@finchandgable.com</a></u> by October 6**. If you have any questions, feel free to reach out to us as well. We hope to see you there.
+## **To RSVP, <u><a target="_blank" rel="noopener" href="http://vid.us/n2mhzj">click here</a></u>\!**
+
+**You can also reply to the email that led you to this page, give our office a call at (719) 999-8900, or send an email to <u><a href="mailto:events@finchandgable.com">events@finchandgable.com</a></u> by October 6**. If you have any questions, feel free to reach out to us as well. We hope to see you there.
