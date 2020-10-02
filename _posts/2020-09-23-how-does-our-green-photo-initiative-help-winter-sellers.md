@@ -8,7 +8,7 @@ excerpt: >-
   By using our Green Photo Initiative, our winter home sellers will stand out
   amid the competition.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Jason+Daniels/Videos/2020/How+Does+Our+Green+Photo+Initiative+Help+Winter+Sellers_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Jason+Daniels/Videos/2020/How+Does+Our+Green+Photo+Initiative+Help+Winter+Sellers.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
