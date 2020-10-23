@@ -14,10 +14,4 @@ youtube_code:
 hidden: true
 ---
 
-{% include youtube.html %}
-
-<center><em>PODCAST.</em></center>
-
-<br>ARTICLE
-
-{% include pullquote.html %}
+<iframe width='853' height='480' src='https://my.matterport.com/show/?m=U1n4j6gUFrf' frameborder='0' allowfullscreen allow='xr-spatial-tracking'></iframe>
