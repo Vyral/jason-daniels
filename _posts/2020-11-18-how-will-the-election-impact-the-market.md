@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   How will this presidential election affect the future of the real estate
   market?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Daniels/Videos/2020/How+Will+the+Election+Impact+the+Market_.mp4
 pullquote: >-
   Things will likely slow down during the holidays and pick back up in the
   spring.
