@@ -19,8 +19,8 @@ hidden: false
 
 <center><em>Thank you for your support this year.</em></center>
 
-<br>2020 has been pretty tough; I know that many families still face challenges. We started out this year rebranding as Finch & Gable—and then the pandemic hit. Because of that, we didn’t think we were going to launch this company. We’ve not only been through a pandemic but also all the political turmoil that’s come up this year. Nevertheless, we made it through, thanks to your support.
+<br>2020 has been pretty tough; I know that many families still face challenges. We started this year rebranding as Finch & Gable—and then the pandemic hit. Due to that, we didn’t think we were going to launch this company. We’ve not only been through a pandemic but also all the political turmoil that’s come up this year. Nevertheless, we made it through, thanks to your support.
 
-It’s now the Christmas season, and we were able to help over 100 families buy or sell a home here in Colorado. We’re just blessed to have been a part of our clients’ lives. **Merry Christmas and happy holidays\!** We pray that your families will be blessed during the season as we have been, and that you’re able to overcome whatever trials you face.
+It’s now the Christmas season, and we were able to help over 100 families buy or sell a home here in Colorado. We’re just blessed to have been a part of our clients’ lives. **Merry Christmas and happy holidays\!** We pray that your families will be blessed during the season as we have been and that you’re able to overcome whatever trials you face.
 
-If there’s anything we can do for you, please reach out to us. See you in 2020\!
+If there’s anything we can do for you, please reach out to us. See you in 2021\!
