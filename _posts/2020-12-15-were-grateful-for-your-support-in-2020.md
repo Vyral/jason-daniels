@@ -5,7 +5,8 @@ date: 2020-12-15 00:00:00
 tags:
   - Real Estate
 excerpt: Thank you for your support this year.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Daniels/Videos/2020/We%E2%80%99re+Grateful+for+Your+Support+in+2020.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
