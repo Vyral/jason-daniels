@@ -24,7 +24,7 @@ hidden: false
 
 <br>Can you trust Zillow’s Zestimates?
 
-**The short answer is no—whether you’re buying or selling, they should only be used as a starting point**. Roughly 75% of the Zestimates in Colorado are inaccurate. Even Zillow states that their Zestimates are off by an average of 5%, and we’ve found that the average is usually closer to 10%. That means if the average sale price in your area is $400,000, the Zestimate for any home could be off by as much as $43,000.
+**The short answer is no—whether you’re buying or selling, they should only be used as a starting point**. Roughly 75% of the Zestimates in Colorado are inaccurate. Even Zillow states that their Zestimates are off by an average of 5%, and we’ve found that the average is usually closer to 10%. That means if the average sale price in your area is $400,000, the Zestimate for any home could be off by as much as $40,000.
 
 {% include pullquote.html %}
 
