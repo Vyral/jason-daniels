@@ -11,6 +11,8 @@ show_custom_links: true
 custom_links:
   - title: Testimonials
     url: '#testimonials'
+  - title: Guaranteed Offer
+    url: '/guaranteed-offer'
 show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
@@ -40,6 +42,8 @@ client:
   phone2_type:
   email: info@finchandgable.com
   url: 'http://www.jasondanielshomes.com'
+forms:
+  sitekey: 6LdraCMaAAAAAG7fLENAqmRXr5Dtnd7eDr4i0Ryt
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.coloradohomesvalue.com/'
