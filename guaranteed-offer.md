@@ -70,7 +70,7 @@ permalink: /guaranteed-offer/
                       6 months+
                   </option>
               </select>
-  						<button class="g-recaptcha" data-sitekey="{{site.data.settings.forms.sitekey}}" data-callback='onGuaranteedOfferSubmit' data-badge="bottomleft">Submit</button></fieldset>
+  						<button class="g-recaptcha" data-sitekey="6LdraCMaAAAAAG7fLENAqmRXr5Dtnd7eDr4i0Ryt" data-callback='onGuaranteedOfferSubmit' data-badge="bottomleft">Submit</button></fieldset>
   					<div class="hidden"><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Message from your Guaranteed Offer Landing Page" name="_subject" /> <input type="text" name="_gotcha" /></div>
   				</form>
   </div>
