@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: A Zestimate should only function as a starting point for your home’s value.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Daniels/Videos/2021/Understanding+Zillow%E2%80%99s+Zestimates.mp4
 pullquote: >-
   We’d be happy to meet with you, go over the numbers, and give you a free,
   accurate valuation of your home.
