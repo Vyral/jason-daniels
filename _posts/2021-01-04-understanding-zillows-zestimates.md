@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Zillow’s Zestimates
-date: 2020-12-18 00:00:00
+date: 2021-01-04 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
