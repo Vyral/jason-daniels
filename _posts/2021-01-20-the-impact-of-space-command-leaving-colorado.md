@@ -12,7 +12,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/01-19-daniels-youtube.jpg
+youtube_alternate_image: /uploads/01-19-daniels-youtube-1.jpg
 youtube_code: 4Rtc6ESGFtE
 hidden: false
 ---
