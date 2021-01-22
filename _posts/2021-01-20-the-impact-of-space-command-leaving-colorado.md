@@ -5,7 +5,8 @@ date: 2021-01-20 00:00:00
 tags:
   - Real Estate
 excerpt: Is the Space Force Command really leaving Colorado Springs?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Daniels/Videos/2021/The+Impact+of+Space+Command+Leaving+Colorado.mp4
 pullquote: >-
   Despite the potential loss from this move, we’ll still have plenty of job
   opportunities from other businesses coming to the area.
