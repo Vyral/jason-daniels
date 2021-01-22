@@ -29,7 +29,7 @@ This development has been upsetting to local politicians due to the $450 million
 
 {% include pullquote.html %}
 
-So what does this mean for the housing market? For one, the developer Flying Horse East was planning to build 3,500 homes in the area around the Trevor Air Force base, a decision which may be put on hold. However, In-N-Out Burger has brought several hundred jobs to us, and they’re bringing even more into the distribution. We’ll also see an influx of jobs for Amazon, which developed a four-million square foot building to house the more than 1,000 employees they’ll need. Scheels Sporting Goods is bringing 300 to 400 jobs within the next couple of months, as well.
+So what does this mean for the housing market? For one, the developer Flying Horse East was planning to build 3,500 homes in the area around Schreiver Air Force Base, a decision which may be put on hold. However, In-N-Out Burger has brought several hundred jobs to us, and they’re bringing even more into the distribution. We’ll also see an influx of jobs for Amazon, which developed a four-million square foot building to house the more than 1,000 employees they’ll need. Scheels Sporting Goods is bringing 300 to 400 jobs within the next couple of months, as well.
 
 Ultimately, **we’ll be fine if Space Command does relocate, but that doesn’t reduce the potential impact of losing $450 million to $800 million a year**.
 
