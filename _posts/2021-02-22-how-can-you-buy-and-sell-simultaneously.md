@@ -25,7 +25,7 @@ hidden: false
 
 <br>In this current seller’s market, buying and selling a home at the same time can be a little tricky. I’m here today with some tips to help you succeed if you’re in a position where you need to buy and sell. It can be difficult navigating a move with so many moving parts and pieces.
 
-The first thing you should know is that **contingent offers are no longer viable**. They may have worked in past markets, but they don't in this seller’s market. With most sellers receiving multiple offers and selling over list price with no contingencies, it puts buyers who need to sell first in a predicament because they have their money tied up through their home’s equity.
+The first thing you should know is that **contingent offers are no longer viable**. They may have worked in past markets, but they don't in this seller’s market. With most sellers receiving multiple offers and selling over list price with no contingencies, it puts buyers who need to sell first in a predicament because they have their money tied up in their home’s equity.
 
 There are a few different ways to buy and sell simultaneously. The first option is the most traditional. We’ll sell your home first, close on it, and use that cash to buy your new home. This very well could mean two moves in this market.
 
@@ -33,7 +33,7 @@ The second option is using a bridge loan or line of credit to buy your next home
 
 {% include pullquote.html %}
 
-One other thing you can do in this market is negotiate a rent back from the buyer to get the home under contract. This can give you up to 60 days to find a new home after you’ve sold your first one.
+One other thing you can do in this market is to negotiate a rent-back from the buyer to get the home under contract. This can give you up to 60 days to find a new home after you’ve sold your first one.
 
 Here at Finch and Gable Real Estate, **we have exclusive partnerships with investors who can make this process stress-free** for you. They’ll pay market value for your current home in cash, and they'll make a cash offer on your behalf for your next home, making your offer that much stronger. Then you can align the closings so you don’t have two house payments or two moves. It’s a great way to alleviate the stress of having to buy and sell in this market. We have several programs, so please reach out if you’re interested, and we can assess your situation.
 
