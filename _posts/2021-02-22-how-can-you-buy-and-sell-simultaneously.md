@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   There are several options available when you need to sell your home and buy a
   new one.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Daniels/Videos/2021/How+Can+You+Buy+and+Sell+Simultaneously_.mp4
 pullquote: We have several different programs that might be able to help you.
 enclosure_type: video/mp4
 enclosure_time:
