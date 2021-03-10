@@ -15,7 +15,7 @@ hidden: false
 ---
 {% include youtube.html %}
 
-<center><em>Here&rsquo;s some helpful advice for sellers in this hot, fast-paced market.</em></center>
+<center style="font-size: 18px;"><em>Here&rsquo;s some helpful advice for sellers in this hot, fast-paced market.</em></center>
 
 <br>Lately, we’ve had a lot of clients ask us about the different options they have in this market, and there are a few misconceptions we want to clear up:
 
