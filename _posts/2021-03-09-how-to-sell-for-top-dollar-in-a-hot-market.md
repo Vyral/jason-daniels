@@ -2,9 +2,11 @@
 layout: post
 title: How to Sell for Top Dollar in a Hot Market
 date: 2021-03-09 00:00:00
-tags: '-home selling tips'
+tags:
+  - Home Seller Tips
 excerpt: 'Here’s some helpful advice for sellers in this hot, fast-paced market.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Daniels/Videos/2021/How+to+Sell+for+Top+Dollar+in+a+Hot+Market.mp4
 pullquote: Price your home at or slightly below market value.
 enclosure_type: video/mp4
 enclosure_time:
