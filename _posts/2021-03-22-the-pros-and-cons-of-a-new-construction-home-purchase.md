@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Pros and Cons of New Construction Home Purchase
+title: The Pros and Cons of a New Construction Home Purchase
 date: 2021-03-22 00:00:00
 tags:
   - Home Buyer Tips
@@ -32,6 +32,6 @@ You also have the ability to choose some of the home’s amenities—color schem
 
 Let’s take a look at some of the cons. Though interest rates have gone up a little bit, there’s reason to believe that they’ll remain fairly steady for the next 12 months. That said, if we do see a significant adjustment, then that means you’ll miss out on locking in a great rate. Second, **builders are increasing their prices about every four to six weeks,** primarily because there’s a shortage of both labor and materials.&nbsp;
 
-Here at Finch & Gable, we all know the new construction home process. My background is actually construction management, as I used to be working on the other side of the fence for a contractor. We’re equipped to guide you through the whole process from A to Z. We can help you make sure that the contractors are staying on schedule, and that you’re not going over budget on change orders. Post-closing, we’ll help you handle any warranty issues.&nbsp;
+Here at Finch & Gable, we all know the new construction home process. My background is actually construction management, as I used to be working on the other side of the fence for a contractor. We’re equipped to guide you through the whole process from A to Z. We can help you make sure that the contractors are staying on schedule and that you’re not going over budget on change orders. Post-closing, we’ll help you handle any warranty issues.&nbsp;
 
 If you’re thinking about purchasing a new construction home or have any other questions relating to real estate, don’t hesitate to reach out to us. We’d love to be your go-to resource and guide for all things new construction.&nbsp;<br>&nbsp;
