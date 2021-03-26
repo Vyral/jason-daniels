@@ -5,7 +5,8 @@ date: 2021-03-22 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s what you need to know about buying new construction right now.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Daniels/Videos/2021/The+Pros+and+Cons+of+a+New+Construction+Home+Purchase.mp4
 pullquote: >-
   By the time you close, it’s likely that your property will have already seen
   some slight appreciation.
